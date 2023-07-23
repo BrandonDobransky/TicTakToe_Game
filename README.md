@@ -5,7 +5,7 @@ Tic Tak Toe game made with React
 
 # Roadmap to Future Improvements
 1) Some improvements that I would make to this include some animations or alerts during game play and after all the spaces are taken. A winning message, a tie message, etc. I also think it would be cool to make an option to play a cpu opponent.
-2) The next improvement I would make would be adding a reset button. A button that would let you restart or end the game before it is finished. 
+2) The next improvement I would make would be adding a reset button. A button that would let you restart or end the game before it is finished and a scorekeeper for each players number of wins. You could add this to the board component or another way if you like. 
 
 # How to Run
 1) You can fork or clone this repository to your home computer.

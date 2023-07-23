@@ -8,8 +8,8 @@ Tic Tak Toe game made with React
 2) The next improvement I would make would be adding a reset button. A button that would let you restart or end the game before it is finished. 
 
 # How to Run
-You can fork or clone this repository to your home computer. 
-Save to your desktop or within a directory that is easily accessable. 
-Start a new terminal at the file directory you saved the files to. 
-Open your browser to a new tab, start your local host server from the terminal at the same time. 
-Type in your browser url the local host page. 
+1)You can fork or clone this repository to your home computer. 
+2)Save to your desktop or within a directory that is easily accessable. 
+3)Start a new terminal at the file directory you saved the files to. 
+4)Open your browser to a new tab, start your local host server from the terminal at the same time. 
+5)Type in your browser url the local host page. 
